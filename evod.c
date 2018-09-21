@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+div2()
 {
     int n=4;
 
