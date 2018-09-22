@@ -4,5 +4,5 @@ main ()
 {
 addn();
 div2();
-fact():
+fact();
 }
