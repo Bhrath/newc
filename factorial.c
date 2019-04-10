@@ -1,5 +1,32 @@
 include <stdio.h>
 int main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dfsFSDFASDF
+afffv
+z
+c
+Fca
+c
+c
+
+c
+
+
+
+
 {
     int n, i;
     unsigned long long factorial = 1;
